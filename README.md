@@ -46,7 +46,10 @@ link código: https://github.com/souzalucy/importandoRMNAya/tree/main
 ### Bibliotecas utilizadas
 Sklearn, pandas, Ipython, numpy, shap, lime e interpret
 <br/>
-![image](https://github.com/souzalucy/explanatividade-nya/assets/59371771/b8cbfbc9-9193-451a-b726-bebd218bc62a)
+'''!pip install lime
+!pip install interpret
+!pip install  eli5
+!pip install shap'''
 
 ### Base de dados
 Credit.csv
