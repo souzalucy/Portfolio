@@ -1,5 +1,5 @@
 # Portfolio
-# Dra. Lucy Gomes de Souza
+# Lucy Gomes de Souza
 ### Cientista de Dados | Especialista em Inteligência Artificial
 
 ## Apresentação
