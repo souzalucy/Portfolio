@@ -25,3 +25,52 @@ Treinamento usando aprendizado profundo para reconhecimento de digitos numérico
 link código: https://github.com/souzalucy/autoencoders-nya/tree/main
 
 ## Caso 2:
+### Multi-layer Perceptron classifier
+
+### Bibliotecas utilizadas
+Sklearn e matplotlib
+
+### Base de dados
+Dataset iris do sklearn
+
+### Descrição
+Utilização do classificador Multi-layer Perceptron para classificar os diferentes grupos de iris. 
+
+![image](https://github.com/souzalucy/importandoRMNAya/assets/59371771/4bcdbac8-37e5-4be4-9102-f7d5a57b1ad3)
+link código: https://github.com/souzalucy/importandoRMNAya/tree/main
+## Caso 3:
+### Explicabilidade de modelos 
+
+### Bibliotecas utilizadas
+Sklearn, pandas, Ipython, numpy, shap, lime e interpret
+![image](https://github.com/souzalucy/explanatividade-nya/assets/59371771/b8cbfbc9-9193-451a-b726-bebd218bc62a)
+
+
+### Base de dados
+Credit.csv
+
+### Descrição
+Uso de bibliotecas de explicabilidade para ilustrar os resultados obtidos pela análise RandomForestClassifier.
+
+![image](https://github.com/souzalucy/explanatividade-nya/assets/59371771/4584b2a1-a649-4a6a-8744-fbdfa454a33a)
+![image](https://github.com/souzalucy/explanatividade-nya/assets/59371771/bb46d16b-aaeb-4e2b-9590-2372f2cb6710)
+link código: https://github.com/souzalucy/explanatividade-nya/tree/main
+## Caso 4: 
+### Estudo sobre causas de problemas cardiácos
+### Bibliotecas utilizadas
+Pandas, Numpy, Matplotlib, Seaborn, Sklearn.
+
+### Base de dados
+arquivo heart-disease.csv
+
+### Descrição
+Todas as etapas de construção, análise e experimentação baseado em dados de saúde (modelo de classificação)
+
+![image](https://github.com/souzalucy/saudecora-o_-completo/assets/59371771/b8145eed-aaab-46fb-9ecb-c44a97a9138c)
+<br/>
+Figura 1: matriz de correlação
+
+![image](https://github.com/souzalucy/saudecora-o_-completo/assets/59371771/bf4ad470-bfb4-4a04-af28-02c3d5f1a509)
+<br/>
+Figura 2: importância das características para obtenção dos resultados encontrados.
+link código: https://github.com/souzalucy/saudecora-o_-completo
