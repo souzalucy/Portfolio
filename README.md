@@ -11,6 +11,25 @@ Sou uma mulher trans não binária que sonha com um mundo melhor e mais justo. S
 ## Projetos
 
 ## Caso 1:
+### Processamento de liguagem natural - sentimentos
+
+### Bibliotecas utilizadas
+Pandas, sklearn, wordcloud, matplotlib.pyplot, nltk, seaborn, string, unidecode, TfidfVectorizer
+!pip install wordcloud
+!pip install nltk
+!pip install unidecode
+
+### Base de dados
+Data set: https://www.kaggle.com/datasets/luisfredgs/imdb-ptbr
+
+### Descrição
+Tratamento de comentários de filmes para inferir os sentimentos do texto (positivo ou negativo).
+Foram feito sete diferentes tratamentos nos dados para que os mesmos fossem utilizados no treinamento da IA.
+
+![image](https://github.com/souzalucy/Portfolio/assets/59371771/20ad18fe-4e0d-49ab-a240-b8d39619afdb)
+nuvem de palavras
+
+## Caso 2:
 ### Utilização do keras para tratamento e identificação de números
 
 ### Bibliotecas utilizadas
@@ -24,7 +43,7 @@ Treinamento usando aprendizado profundo para reconhecimento de digitos numérico
 ![image](https://github.com/souzalucy/autoencoders-nya/assets/59371771/5e6b67dd-f37c-4b87-b23e-aa8cd44201aa)
 link código: https://github.com/souzalucy/autoencoders-nya/tree/main
 
-## Caso 2:
+## Caso 3:
 ### Multi-layer Perceptron classifier
 
 ### Bibliotecas utilizadas
@@ -40,7 +59,7 @@ Utilização do classificador Multi-layer Perceptron para classificar os diferen
 <br/>
 link código: https://github.com/souzalucy/importandoRMNAya/tree/main
 
-## Caso 3:
+## Caso 4:
 ### Explicabilidade de modelos 
 
 ### Bibliotecas utilizadas
@@ -63,7 +82,7 @@ Uso de bibliotecas de explicabilidade para ilustrar os resultados obtidos pela a
 <br/>
 link código: https://github.com/souzalucy/explanatividade-nya/tree/main
 
-## Caso 4: 
+## Caso 5: 
 ### Estudo sobre causas de problemas cardiácos
 ### Bibliotecas utilizadas
 Pandas, Numpy, Matplotlib, Seaborn, Sklearn.
